@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kabasilim
 - 👀 I’m interested in Web development, Javascript, JAVA, MOBILE APP, robotics, AI and ML
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on any AI  and ML program
+- 💞️ I’m looking to collaborate on any Web development, Javascript, JAVA, MOBILE APP, robotics, AI and MLprogram
 - 📫 How to reach me, +2349018446832, 
 
 <!---
