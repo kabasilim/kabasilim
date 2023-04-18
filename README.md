@@ -1,6 +1,6 @@
-- ``👋 Hi, I’m Abasilim Kosisochukwu Obaejeogu
+- 👋 Hi, I’m Abasilim Kosisochukwu Obaejeogu
 - 
-- 😁 Username: Kabasilim
+- 😁 Username: ``Kabasilim``
 - 
 - 😊 I,m currently an intern in ALX_Africa
 - 
