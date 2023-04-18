@@ -10,7 +10,7 @@
 -  
 - 📫 How to reach me, +2349018446832, +2348030710455, 
 - 
-- ``[Twitter](https://twitter.com/Abasilim_Odogwu)``
+- ``[Twitter]``(https://twitter.com/Abasilim_Odogwu)
 - 
 - ``[linkedln](www.linkedin.com/in/kosisochukwu-abasilim)``
 
