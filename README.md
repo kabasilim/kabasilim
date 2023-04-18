@@ -12,7 +12,7 @@
 - 
 - ``[Twitter]``(https://twitter.com/Abasilim_Odogwu)
 - 
-- ``[linkedln](www.linkedin.com/in/kosisochukwu-abasilim)``
+- [linkedln](www.linkedin.com/in/kosisochukwu-abasilim)
 
 <!---
 kabasilim/kabasilim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
