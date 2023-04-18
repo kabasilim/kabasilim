@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abasilim Kosisochukwu Obaejeogu
+- ``👋 Hi, I’m Abasilim Kosisochukwu Obaejeogu
 - 
 - 😁 Username: Kabasilim
 - 
@@ -8,9 +8,9 @@
 - 💞️
 -  I’m looking to collaborate on any Web dev, web apps , mobile apps dev, robotics, AI and ML program
 -  
-- 📫 How to reach me, +2349018446832, +2348030710455, 
+- 📫 How to reach me, +2349018446832, +2348030710455, ``
 - 
-- ``[Twitter]``(https://twitter.com/Abasilim_Odogwu)
+- [Twitter](https://twitter.com/Abasilim_Odogwu)
 - 
 - [linkedln](www.linkedin.com/in/kosisochukwu-abasilim)
 
