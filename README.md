@@ -2,7 +2,7 @@
 - 
 - 😁 Username: ``Kabasilim``
 - 
-- 😊 I,m currently an intern in ALX_Africa
+- 😊 I,m currently an ``intern`` in ``ALX_Africa``
 - 
 - 👀 I’m interested in ``Web dev``, ``Mobile apps dev``, ``Web apps``, ``robotics``, ``AI and Ml``
 - 
