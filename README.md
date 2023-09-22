@@ -2,13 +2,13 @@
 - 
 - 😁 Username: ``Kabasilim``
 - 
-- 😊 I,m currently work in ``Nwamugo Software and Digital Enterprise`` also an enrolled  in ``ALX_Africa``
+- 😊 I,m currently work in 
 - 
 - 👀 I’m interested in ``Web dev``, ``Mobile apps dev``, ``Web apps``, ``robotics``, ``AI and Ml``
 - 
 - 💞️ I’m looking to collaborate on any ``Web dev``, ``web apps`` , ``mobile apps dev``, ``robotics``, ``AI and ML program``
 -  
-- 📫 How to reach me, ``+2349018446832``, ``+2348030710455, ``
+- 📫 How to reach me, ``+2349018446832``, ``+2348030710455, `` ``+13462883149``
 - 
 - [linkedln](www.linkedin.com/in/kosisochukwu-abasilim)
 
