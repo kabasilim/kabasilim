@@ -9,8 +9,6 @@
 - 💞️ I’m looking to collaborate on any ``Web dev``, ``web apps`` , ``mobile apps dev``, ``robotics``, ``AI and ML program``
 -  
 - 📫 How to reach me, ``+2349018446832``, ``+2348030710455, `` ``+13462883149``
-- 
-- [linkedln](www.linkedin.com/in/kosisochukwu-abasilim)
 
 <!---
 kabasilim/kabasilim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
