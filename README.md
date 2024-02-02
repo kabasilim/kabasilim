@@ -2,8 +2,6 @@
 - 
 - 😁 Username: ``Kabasilim``
 - 
-- 😊 I,m currently work in ``Kocador``
-- 
 - 👀 I’m interested in ``Web dev``, ``Mobile apps dev``, ``Web apps``, ``robotics``, ``AI and Ml``
 - 
 - 💞️ I’m looking to collaborate on any ``Web dev``, ``web apps`` , ``mobile apps dev``, ``robotics``, ``AI and ML program``
