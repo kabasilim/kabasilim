@@ -1,3 +1,5 @@
+![gitartwork](gitartwork.svg)
+
 - 👋 Hi, I’m ``Abasilim`` ``Kosisochukwu`` ``Obaejeogu``
 - 
 - 😁 Username: ``Kabasilim``
