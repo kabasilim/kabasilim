@@ -1,8 +1,9 @@
-<b><p align="left"> <img src="https://komarev.com/ghpvc/?username=kabasilim&label=visitors%20&color=brightgreen&style=plastic"/> </p></b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabasilim&label=visitors%20&color=brightgreen&style=plastic"/> </p>
 
 ![gitartwork](gitartwork.svg)
 
 # 🧑‍💻 Abasilim Kosisochukwu Obaejeogu
+## [View my Resume](https://github.com/kabasilim/kabasilim/files/14625785/Resume-Kosisochukwu--Abasilim.2.pdf)
 
 
 **`Digital Craftsman (Software Developer) `**
