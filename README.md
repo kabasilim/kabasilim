@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabasilim&label=visitors%20&color=brightgreen&style=plastic"/> </p>
+<b><p align="left"> <img src="https://komarev.com/ghpvc/?username=kabasilim&label=visitors%20&color=brightgreen&style=plastic"/> </p></b>
 
 ![gitartwork](gitartwork.svg)
 
