@@ -31,6 +31,14 @@
 
 <br/>
 
+<p align="left">
+      <a href="https://github.com/kabasilim?tab=repositories">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kabasilim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kabasilim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   </p>
+   
+
 ## 🧰 Languages and Toolbox
 
 <h3 style="font-size: 5em"> 
@@ -45,12 +53,4 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kodaas&theme=onedark_duo&border_radius=15)](https://git.io/streak-stats)
-<p align="left">
-      <a href="https://github.com/kabasilim?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kabasilim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kabasilim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   </p>
-   
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kabasilim&theme=onedark_duo&border_radius=15)](https://git.io/streak-stats)
