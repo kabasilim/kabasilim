@@ -4,7 +4,9 @@
 
 # 🧑‍💻 Abasilim Kosisochukwu Obaejeogu
 
-- 😁 Username: ``Kabasilim``
+
+**`Digital Craftsman (Software Developer) `**
+## Username: Kabasilim
 - 
 - 👀 I’m interested in ``Web dev``, ``Mobile apps dev``, ``Web apps``, ``robotics``, ``AI and Ml``
 - 
