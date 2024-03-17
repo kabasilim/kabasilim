@@ -31,6 +31,21 @@
 
 <br/>
 
+## 🧰 Languages and Toolbox
+
+<h3 style="font-size: 5em"> 
+   I use optimized, cost-efficient and essential tools to solve specific problems. be it Web, Mobile, Desktop, Spatial computing, and IoT.
+</h3>
+
+<br />
+<br />
+<br />
+
+#
+
+### 📊 Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kodaas&theme=onedark_duo&border_radius=15)](https://git.io/streak-stats)
 <p align="left">
       <a href="https://github.com/kabasilim?tab=repositories">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kabasilim?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
