@@ -16,3 +16,8 @@
 kabasilim/kabasilim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[website]: https://kocador/
+[twitter]: https://twitter.com/Abasilim_Odogwu
+[linkedin]: https://www.linkedin.com/in/kosisochukwu-abasilim/
+<!--[blog]: https://blog.kocardor.tk/-->
+[Discord]: https://discordapp.com/users/kabasilim
