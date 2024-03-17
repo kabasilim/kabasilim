@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabasilim&label=visitors%20&color=202124&style=plastic"/> </p>
+
 ![gitartwork](gitartwork.svg)
 
 - 👋 Hi, I’m ``Abasilim`` ``Kosisochukwu`` ``Obaejeogu``
