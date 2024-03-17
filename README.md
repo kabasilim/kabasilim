@@ -11,12 +11,9 @@
 - 💞️ I’m looking to collaborate on any ``Web dev``, ``web apps`` , ``mobile apps dev``, ``robotics``, ``AI and ML program``
 --- 
  ## 📫 How to reach me:
+ 
  <br/>
    <p align="left">
-     <a href="https://discordapp.com/users/kabasilim/">
-      <img alt="Discord" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" />
-   </a>
-    &#2B50;&#2B50;&#2B50;&#2B50;&#2B50;
    <a href="https://www.linkedin.com/in/kosisochukwu-abasilim/">
       <img alt="Linkedin" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    </a>
