@@ -2,8 +2,8 @@
 
 ![gitartwork](gitartwork.svg)
 
-- 👋 Hi, I’m ``Abasilim`` ``Kosisochukwu`` ``Obaejeogu``
-- 
+# 🧑‍💻 Abasilim Kosisochukwu Obaejeogu
+
 - 😁 Username: ``Kabasilim``
 - 
 - 👀 I’m interested in ``Web dev``, ``Mobile apps dev``, ``Web apps``, ``robotics``, ``AI and Ml``
