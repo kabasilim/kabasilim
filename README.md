@@ -16,6 +16,7 @@
      <a href="https://discordapp.com/users/kabasilim/">
       <img alt="Discord" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" />
    </a>
+    &#2B50;&#2B50;&#2B50;&#2B50;&#2B50;
    <a href="https://www.linkedin.com/in/kosisochukwu-abasilim/">
       <img alt="Linkedin" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
    </a>
