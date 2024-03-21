@@ -56,7 +56,7 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabsilim&show_icons=true&locale=en&layout=compact&theme=dark" alt="KOCADOR" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabasilim&show_icons=true&locale=en&layout=compact&theme=dark" alt="KOCADOR" /></p>
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kabasilim&theme=onedark_duo&border_radius=15)](https://git.io/streak-stats)
