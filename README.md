@@ -2,7 +2,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-# 🧑‍💻 Abasilim Kosisochukwu Obaejeogu
+# 🧑‍💻 Abasilim Kosisochukwu Obaejeogu.
 ## [View my Resume](https://drive.google.com/file/d/1Z0UlEWBi9QE5Q_gy-ECxl_wNR7JRweA9/view?usp=sharing)
 
 
