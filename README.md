@@ -12,7 +12,7 @@
 #### 💞️ I’m looking to collaborate on any Web dev, web apps, mobile apps dev, robotics, AI and ML program
 #### Chat me on  [Discord](https://discordapp.com/users/kabasilim)
 ---
- ## 📫 How to reach me:
+## 📫 How to reach me:
  
  <br/>
    <p align="left">
@@ -40,10 +40,8 @@
    
 
 ## 🧰 Languages and Toolbox
-
-<h3 style="font-size: 5em"> 
-   I use optimized, cost-efficient and essential tools to solve specific problems. be it Web, Mobile, Desktop, Spatial computing, and IoT.
-</h3>
+ 
+I use optimized, cost-efficient and essential tools to solve specific problems. be it Web, Mobile, Desktop, Spatial computing, and IoT.
 
 <br />
 <br />
