@@ -41,7 +41,7 @@
 
 ## 🧰 Languages and Toolbox
  
-I use optimized, cost-efficient and essential tools to solve specific problems. be it Web, Mobile, Desktop, Spatial computing, and IoT.
+#### I use optimized, cost-efficient and essential tools to solve specific problems. be it Web, Mobile, Desktop, Spatial computing, and IoT.
 
 <br />
 <br />
