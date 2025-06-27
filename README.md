@@ -8,8 +8,8 @@
 
 **`Digital Craftsman (Software Engineer) `**
 ## Username: Kabasilim
-#### 👀 I’m interested in Web dev, Mobile apps dev, Web apps, <b>robotics, AI and ML, Cybersecurity, Cloud computing </b>
-#### 💞️ I’m looking to collaborate on any Web dev, web apps, mobile apps dev, robotics, AI and ML program
+#### 👀 I’m interested in Web dev, Mobile apps dev, Web apps, <i><b>robotics, AI and ML, Cybersecurity, Cloud computing </b></i>.
+#### 💞️ I’m looking to collaborate on any Web dev, web apps, mobile apps dev,<i> <b>robotics, AI and ML, Cybersecurity, Cloud computing </b></i>.
 #### Chat me on  [Discord](https://discordapp.com/users/kabasilim)
 ---
 ## 📫 How to reach me:
